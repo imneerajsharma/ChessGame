@@ -21,4 +21,4 @@ This commit introduces the initial setup for the game application, including the
     - Background Color: Sets the background color to black.
 
 These additions lay the foundation for the game's GUI and rendering logic.
-OUTPUT: [commit1.mov](Videos%2Fcommit1.mov)
+OUTPUT: [commit1](https://www.youtube.com/watch?v=aro_RcdEZ68)
